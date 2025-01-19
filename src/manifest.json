@@ -1,0 +1,24 @@
+{
+  "manifest_version": 1,
+  "id": "joplin-plugin-copy-public-url",
+  "app_min_version": "3.0",
+  "name": "Copy HTTP link",
+  "version": "1.0.0",
+  "description": "Creates an HTTP URL to open a note in Joplin.",
+  "author": "Christopher Orr",
+  "homepage_url": "https://joplin.orr.dev/",
+  "repository_url": "https://github.com/orrc/joplin-plugin-copy-public-url",
+  "keywords": [
+    "link",
+    "url",
+    "http"
+  ],
+  "categories": [
+    "productivity",
+    "integrations"
+  ],
+  "promo_tile": {
+    "src": "images/promo_tile.png",
+    "label": "Context menu options on a Joplin note, to generate an HTTP URL"
+  }
+}
